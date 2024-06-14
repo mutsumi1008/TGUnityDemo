@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TGC: {fileID: 2044657165}
-  consF: 1
+  consF: 0
 --- !u!54 &386365985
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -726,8 +726,6 @@ MonoBehaviour:
     poorSignalLevel: 0
   showDataOnConsole: 0
   showPacketOnConsole: 0
-  rec_eSense: 0
-  rec_raw: 0
 --- !u!4 &2044657166
 Transform:
   m_ObjectHideFlags: 0
