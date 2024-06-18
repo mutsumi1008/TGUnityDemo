@@ -166,8 +166,8 @@ MonoBehaviour:
       lowGamma: 0
       highGamma: 0
     poorSignalLevel: 0
-  showDataOnConsole: 0
-  showPacketOnConsole: 1
+  showDataOnConsole: 1
+  showPacketOnConsole: 0
 --- !u!4 &324180240
 Transform:
   m_ObjectHideFlags: 0
