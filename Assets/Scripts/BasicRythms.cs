@@ -17,7 +17,7 @@ public class BasicRythms : MonoBehaviour
     private int shrinkRate = 30;
     private int WaitBRtime = 15;
 
-    private float bRate = 3.0f;
+    private float bRate =4.0f;
     private float scMin = 1.0f;
     // Start is called before the first frame update
     void Start()
